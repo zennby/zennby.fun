@@ -1,2 +1,2 @@
 # zennby.fun
-test
+hello
